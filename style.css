@@ -1,0 +1,49 @@
+body{
+
+    background-color: black;
+}
+
+.container{
+
+    text-align: center;
+
+}
+
+
+form{
+    color: white;
+    
+    
+}
+
+input{
+    background-color:rgb(55, 53, 53);
+    width: 370px;
+    height: 40px;
+    border-radius: 4px;
+    border-color:white;
+    color: white;
+}
+
+img{
+    width:270px;
+}
+
+
+p{
+
+   margin-right: 330px;
+   margin-bottom: 2px;
+}
+
+
+button{
+
+    width: 120px;
+    height: 40px;
+    background-color: rgb(53, 168, 53);
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+    border:2px;
+}
